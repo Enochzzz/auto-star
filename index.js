@@ -1,5 +1,5 @@
-import { POST_STAR_URL, OK_STATUS } from './constants';
-import Vaildate from './vaildate';
+const { POST_STAR_URL, OK_STATUS } = require("./constants.js")
+const { Vaildate } = require("./vaildate.js")
 console.log(process.argv, 111)
 console.log(process.env, 222)
 // const { Octokit } = require("@octokit/core");

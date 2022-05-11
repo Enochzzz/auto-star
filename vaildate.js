@@ -1,4 +1,4 @@
-export default class {
+module.exports.Vaildate = class  {
   rules!;
 
   constructor() {

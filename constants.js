@@ -1,3 +1,3 @@
-export const POST_STAR_URL = 'PUT /user/starred/{owner}/{repo}';
+module.exports.POST_STAR_URL = 'PUT /user/starred/{owner}/{repo}';
 
-export const OK_STATUS = 204;
+module.exports.OK_STATUS = 204;
