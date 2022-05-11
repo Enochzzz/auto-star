@@ -1,5 +1,5 @@
 module.exports.Vaildate = class  {
-  rules!;
+  rules;
 
   constructor() {
     this.rules = [];
