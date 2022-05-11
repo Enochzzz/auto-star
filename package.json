@@ -1,0 +1,12 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "star": "node index.js"
+  },
+  "devDependencies": {
+    "@octokit/core": "^3.6.0"
+  }
+}
